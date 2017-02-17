@@ -1,0 +1,9 @@
+
+div {
+  position:fixed;
+  width: 100vw;
+  height: auto;
+  text-align: center;
+  top:50vh;
+  transform:translateY(-50%);
+}
